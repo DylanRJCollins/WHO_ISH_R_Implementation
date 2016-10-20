@@ -6,5 +6,5 @@ Collins D, Lee J, Bobrovitz N et al. Simple and adaptable R implementation of WH
 ## Additional Files Beyond Publication
 We have uploaded a plain text version of the worked example and R code as requested by a reader. It can be found here under the file name "Worked_Example.txt".
 
-## Contact ME
+## Contact Me
 Should you have any questions or would like files in a different format, please contact me by e-mail at dylan.collins@phc.ox.ac.uk or on twitter @DylanRJCollins
